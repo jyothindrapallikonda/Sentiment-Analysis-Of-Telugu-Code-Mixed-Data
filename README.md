@@ -30,6 +30,11 @@ Achieving **90% accuracy** on a curated dataset of 15,000 annotated social media
 ✅ **Effective class imbalance mitigation** (SMOTE + custom weighting)  
 ✅ **Real-world deployable solution** with <1s inference time
 
+## Working Video Of Streamlit Integration
+https://github.com/user-attachments/assets/7b9426e7-5f72-4f45-836a-bbf0bec90e66
+
+
+
 ## Methodology
 
 ### Framework Overview
